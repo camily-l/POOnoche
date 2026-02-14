@@ -4,6 +4,7 @@ public class Main{
         System.out.println("repaso comando git");
         System.out.println("camila andrea moreno");
         System.out.println("pyton");
+        System.out.println(1+1);
     }
 
 }
